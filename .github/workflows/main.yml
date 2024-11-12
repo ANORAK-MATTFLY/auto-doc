@@ -1,4 +1,4 @@
-name: auto-doc
+name: aix-doc@v0
 
 on:
   push:
