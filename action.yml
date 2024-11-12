@@ -1,0 +1,12 @@
+name: auto-code
+description: "Generate professional code documentation on every commit"
+author: Ben Matanda
+outputs:
+  time:
+    description: 'Generate professional code documentation on every commit'
+runs:
+  using: 'node12'
+  main: 'index.js'
+branding:
+  color: 'blue'
+  icon: 'smile'
