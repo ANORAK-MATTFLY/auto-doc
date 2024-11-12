@@ -1,4 +1,4 @@
-name: aix-doc
+name: aix-doc@v0
 description: "Generate professional code documentation on every commit"
 author: Ben Matanda
 outputs:
