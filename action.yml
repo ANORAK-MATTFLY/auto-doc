@@ -4,9 +4,6 @@ author: Ben Matanda
 outputs:
   time:
     description: 'Generate professional code documentation on every commit'
-runs:
-  using: 'node20'
-  main: 'index.js'
 branding:
   color: 'blue'
   icon: 'file-minus'
