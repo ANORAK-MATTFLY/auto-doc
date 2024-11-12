@@ -1,4 +1,4 @@
-name: auto-doc
+name: ai-doc
 description: "Generate professional code documentation on every commit"
 author: Ben Matanda
 outputs:
